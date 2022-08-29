@@ -1,0 +1,11 @@
+C:\Users\edwin\source\repos\TemperaturaRefuerzoUES\TemperaturaRefuerzoUES\bin\Debug\TemperaturaRefuerzoUES.exe.config
+C:\Users\edwin\source\repos\TemperaturaRefuerzoUES\TemperaturaRefuerzoUES\bin\Debug\TemperaturaRefuerzoUES.exe
+C:\Users\edwin\source\repos\TemperaturaRefuerzoUES\TemperaturaRefuerzoUES\bin\Debug\TemperaturaRefuerzoUES.pdb
+C:\Users\edwin\source\repos\TemperaturaRefuerzoUES\TemperaturaRefuerzoUES\obj\Debug\TemperaturaRefuerzoUES.csproj.AssemblyReference.cache
+C:\Users\edwin\source\repos\TemperaturaRefuerzoUES\TemperaturaRefuerzoUES\obj\Debug\TemperaturaRefuerzoUES.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwin\source\repos\TemperaturaRefuerzoUES\TemperaturaRefuerzoUES\obj\Debug\TemperaturaRefuerzoUES.Form1.resources
+C:\Users\edwin\source\repos\TemperaturaRefuerzoUES\TemperaturaRefuerzoUES\obj\Debug\TemperaturaRefuerzoUES.Properties.Resources.resources
+C:\Users\edwin\source\repos\TemperaturaRefuerzoUES\TemperaturaRefuerzoUES\obj\Debug\TemperaturaRefuerzoUES.csproj.GenerateResource.cache
+C:\Users\edwin\source\repos\TemperaturaRefuerzoUES\TemperaturaRefuerzoUES\obj\Debug\TemperaturaRefuerzoUES.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\TemperaturaRefuerzoUES\TemperaturaRefuerzoUES\obj\Debug\TemperaturaRefuerzoUES.exe
+C:\Users\edwin\source\repos\TemperaturaRefuerzoUES\TemperaturaRefuerzoUES\obj\Debug\TemperaturaRefuerzoUES.pdb
